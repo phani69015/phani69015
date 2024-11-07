@@ -1,4 +1,4 @@
-### Hi there 👋, I'm @phani69015
+### Hi there 👋, I'm Phanendra Tirumala
 
 - 👀 I’m interested in web development, open source projects, and AI/ML.
 - 🌱 I’m currently learning Langchain and exploring TensorFlow.
